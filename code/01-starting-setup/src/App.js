@@ -34,8 +34,8 @@ function App() {
       </header>
       <ul id="concepts">
         <li className="concept">
-          <img src="TODO: IMAGE" alt="TODO: TITLE" />
-          <h2>{concepts.title}</h2>
+          <img src="./assets/images/key-concepts.png" alt="TODO: TITLE" />
+          <h2>{concepts[0].title}</h2>
           <p>TODO: DESCRIPTION</p>
         </li>
       </ul>
